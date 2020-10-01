@@ -20,7 +20,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -63,55 +63,24 @@ education:
             during my time there!
           - Created a E-Learning website to teach students trigonomety
             based on one's learning style.
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer
+      time: 2018 - Present
+      company: SAIC, Kansas City
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Lead a team of three developers to deliver a high-profile application
+            to production in eight days successfully.
+          - Enhanced the organization's CI/CD pipeline by writing custom tooling
+            for Azure DevOps.
+          - Delivered lucnh-and-learn sessions to train co-workers how to develop
+            cloud-native applications.
+    - role: Software Engineer Associate
+      time: 2016 - 2018
+      company: SAIC, Kansas City
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Automated testing by devloping a custom tool that ended up saving hundreds
+            of hours of testing.
+          - Provided recommendations to clients regarding feature enhancements and improvements.
 projects:
     title: Projects
     intro: >
@@ -165,22 +134,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C#
+        level: 80%
 
       - name: Angular
-        level: 98%
+        level: 30%
+
+      - name: SSIS
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Docker & Kubernetes
+        level: 60%
+
+      - name: Azure DevOps
         level: 60%
 
 footer: >

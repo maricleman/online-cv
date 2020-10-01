@@ -12,11 +12,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: DavidNMaricle@gmail.com
+    phone: 816 920 3654
+    website: # blog.webjeda.com #do not add http://
+    linkedin: david-maricle-320b0ba9 
+    github: maricleman
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -29,43 +29,40 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: Novice
 
     interests:
-      - item: Climbing
+      - item: Running
         link:
 
-      - item: Snowboarding
+      - item: Cycling
         link:
 
-      - item: Cooking
+      - item: Adventure Racing
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A mid-level full-stack developer, I have experience in C#, Angular, .NET Framework
+      and .NET Core, as well as SSIS and T-SQL. I enjoy talking with clients to develop
+      custom-tailored solutions that are effective and make a difference.  
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.S. in Mathematics and Computer Science
+      university: College of the Ozarks
+      time: 2012 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Being a double major in mathematics and computer science, my education
+        has consisted of projects, developing problem solving skills, enhancing
+        analytical skills, and working with various teams. Below are some of the
+        highlights throughout my educational career:
+          - Built a fully-functional database for a (made-up) bookstore.
+          - Developed a desktop Java application for a professor to quiz
+            on absolute value. This application was utilized in the classroom
+            during my time there!
+          - Created a E-Learning website to teach students trigonomety
+            based on one's learning style.
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011

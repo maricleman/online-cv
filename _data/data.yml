@@ -20,7 +20,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: #'@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -46,11 +46,10 @@ career-profile:
     title: Career Profile
     summary: |
       A mid-level full-stack developer that is passionate about both results and people. 
-      I have experience in C#, Angular, .NET Framework and .NET Core, as well as SSIS 
-      and T-SQL. I enjoy talking with clients to develop custom-tailored solutions that 
-      are effective and robust, as well as working on teams that are collaborative
-      and motivated. I thrive on teams that both celebrate victories together and own losses
-      together.  
+      I have experience in C#, Angular, .NET Core, .NET Framework, SSIS and T-SQL. 
+      I enjoy talking with clients to develop custom-tailored solutions that are effective 
+      and robust, as well as working on teams that are collaborative and motivated. I thrive 
+      on teams that both celebrate victories together and own losses together.  
 education:
     - degree: B.S. in Mathematics and Computer Science
       university: College of the Ozarks
@@ -71,19 +70,22 @@ experiences:
       time: October, 2018 - Present
       company: SAIC, Kansas City
       details: |
-          - Lead a team of three developers to deliver a high-profile application
-            to production in eight days successfully.
-          - Enhanced the organization's CI/CD pipeline by writing custom tooling
-            for Azure DevOps.
-          - Delivered lucnh-and-learn sessions to train co-workers how to develop
+          - Lead a team consisting of three developers to deliver a high-profile 
+            application to production in eight days.
+          - Worked closely with architecture to develop a cloud-migration strategy.
+          - Enhanced the organization’s CI/CD pipeline by writing custom tooling in 
+            Azure DevOps.
+          - Delivered lunch-and-learn sessions to educate co-workers on how to develop 
             cloud-native applications.
+          - Provided RESTful API standards to enhance consistency across development teams.
     - role: Software Engineer Associate
       time: September, 2016 - October, 2018
       company: SAIC, Kansas City
       details: |
-          - Automated testing by devloping a custom tool that ended up saving hundreds
-            of hours of testing.
-          - Provided recommendations to clients regarding feature enhancements and improvements.
+          - Created a custom tool to automate testing to save the team hundreds of hours.
+          - Provided the client recommendations regarding feature enhancements and improvements.
+          - Created an application that aggregated data from NOAA to provide custom estimates to
+            farmers looking at different crop insurance options.
 
 skills:
     title: Skills &amp; Proficiency
@@ -99,7 +101,7 @@ skills:
         level: 70%
 
       - name: HTML5 & CSS
-        level: 85%
+        level: 70%
 
       - name: Docker & Kubernetes
         level: 60%

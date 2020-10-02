@@ -87,6 +87,24 @@ experiences:
           - Created an application that aggregated data from NOAA to provide custom estimates to
             farmers looking at different crop insurance options.
 
+projects:
+    title: Projects
+    intro: >
+      Below are some side projects I have worked on.
+    assignments:
+      - title: COVID-19 Data Aggregator
+        link: https://github.com/maricleman/Covid19App
+        tagline: "A ETL process to load data from the NY Times into a Microsoft SQL Server database to perform various
+                  aggregations on the data by county, state, etc."
+
+      - title: Chores Manager
+        link: https://github.com/maricleman/chores-manager
+        tagline: "A application designed to help manage the chores schedule around the house."
+
+      - title: Learning Angular
+        link: https://github.com/maricleman/Angular-GettingStarted
+        tagline: "An application I put together to help me learn the angular JavaScript framework."
+
 skills:
     title: Skills &amp; Proficiency
 
